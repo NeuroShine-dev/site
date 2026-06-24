@@ -87,8 +87,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "blindaid-neuroshine"
+        "projectId": "FILL_IN_AFTER_eas_init"
       }
-    }
+    },
+    "owner": "neuroshine"
   }
 }

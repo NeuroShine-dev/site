@@ -16,3 +16,4 @@ npm-debug.*
 *.pem
 ios/
 android/
+google-play-service-account.json
